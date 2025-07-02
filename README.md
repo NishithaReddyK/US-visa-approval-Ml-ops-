@@ -26,3 +26,6 @@ pip install -r requirements.txt
 2.  entity 
 3.  components
 4. pipelines
+
+
+600627316702.dkr.ecr.us-east-1.amazonaws.com/visa
