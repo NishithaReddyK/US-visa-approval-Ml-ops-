@@ -28,4 +28,4 @@ pip install -r requirements.txt
 4. pipelines
 
 
-600627316702.dkr.ecr.us-east-1.amazonaws.com/visa
+600627316702.dkr.ecr.us-east-1.amazonaws.com/visarepo
